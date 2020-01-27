@@ -3,4 +3,4 @@ Using Wikidata's Query Service and webscraping, I was interested in finding whic
 
 Here is the reader-friendly Markdown document: https://github.com/datacarvel/SnowyCities/blob/master/SnowyCities-READ-THIS-ONE.md
 
-The resulting article on MétéoMédia: https://www.meteomedia.com/ca/nouvelles/article/quelles-grandes-villes-du-monde-recoivent-le-plus-de-neige
+The resulting article on MétéoMédia (in French): https://www.meteomedia.com/ca/nouvelles/article/quelles-grandes-villes-du-monde-recoivent-le-plus-de-neige
