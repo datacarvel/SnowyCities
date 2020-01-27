@@ -88,13 +88,13 @@ The climate data of most major cities, including the snowfall data where there i
 
 When available, the climate data table looks like this, like for Toronto :
 
-![Toronto Climate Data](C:/Users/Boris7/Google%20Drive/SCARUFEL-COM/toronto.png)
+![Toronto Climate Data](https://github.com/datacarvel/SnowyCities/blob/master/toronto.PNG)
 
 What we are looking for here is the yearly average snowfall (circled in red). We need our script to visit every page we stored moments ago and look up for any indication of snowfall data. If there isn't any, our script must say so and move on. But we have one last thing to do before that.
 
 A city's Wikipedia article URL can be found in its Wikidata entry page.
 
-![The Toronto Wikidata entry page contains a link to its Wikipedia article page in English - circled in red above](C:/Users/Boris7/Google%20Drive/SCARUFEL-COM/toronto2.png)
+![The Toronto Wikidata entry page contains a link to its Wikipedia article page in English - circled in red above](https://github.com/datacarvel/SnowyCities/blob/master/toronto2.PNG)
 
 So here the first webscraping operation begins. For every city stored, we will tell our script to search for the city's English-language Wikipedia article URL so we can visit it.
 
